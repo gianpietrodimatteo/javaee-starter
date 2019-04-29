@@ -1,7 +1,3 @@
-Make the archetype repo
-Use version 0.04
-Fix groupId/project name
-
 Add JavaEE Documentation (+JAVA_HOME)
 Add Maven Documentation (+M2_HOME)
 
