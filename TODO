@@ -1,0 +1,14 @@
+dd JavaEE Documentation (+JAVA_HOME)
+Add Maven Documentation (+M2_HOME)
+
+Add logger slf4j (super log4j)
+
+Add Wildfly Support
+Add Wildfly documentation (+JBOSS_PATH)
+Add docker/wildfly profile
+
+Add Junit (+Documentation)
+Add RestEasy (+Documentation)
+
+Add Hibernate (+Documentation)
+Add local Postgres support*
