@@ -12,3 +12,7 @@ Add RestEasy (+Documentation)
 
 Add Hibernate (+Documentation)
 Add local Postgres support*
+
+Add local data system
+Connect to postgres
+Connect to endpoint
